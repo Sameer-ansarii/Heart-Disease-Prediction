@@ -15,5 +15,5 @@ Heart disease is the target variable to predict. It means -- patient has heart d
 
 # The targets of the analysis are:
 1) To analyze the dataset content using EDA and to understand if it's possible build one model allowing to predict heart diseaes in the patients or not.
-2) To train a model allowing to predict heart disease in a patient with the highest accuracy, F1 score and ROC-AUC metric.
-3) To evaluate feature importance of a model and to analyze the most impactful factors. The dataset was taken from Kaggle repository: Heart Disease.
+2) To train a model allowing to predict heart disease in a patient with the highest recall value.
+3) To evaluate feature importance of a model and to analyze the most impactful factors.
